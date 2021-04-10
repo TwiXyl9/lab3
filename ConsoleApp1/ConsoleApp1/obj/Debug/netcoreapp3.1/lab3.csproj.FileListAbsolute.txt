@@ -1,0 +1,13 @@
+D:\1Семестры\4семестр!!!\Курсы\Lab3\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\lab3.exe
+D:\1Семестры\4семестр!!!\Курсы\Lab3\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\lab3.deps.json
+D:\1Семестры\4семестр!!!\Курсы\Lab3\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\lab3.runtimeconfig.json
+D:\1Семестры\4семестр!!!\Курсы\Lab3\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\lab3.runtimeconfig.dev.json
+D:\1Семестры\4семестр!!!\Курсы\Lab3\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\lab3.dll
+D:\1Семестры\4семестр!!!\Курсы\Lab3\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\lab3.pdb
+D:\1Семестры\4семестр!!!\Курсы\Lab3\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\lab3.AssemblyInfoInputs.cache
+D:\1Семестры\4семестр!!!\Курсы\Lab3\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\lab3.AssemblyInfo.cs
+D:\1Семестры\4семестр!!!\Курсы\Lab3\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\lab3.csproj.CoreCompileInputs.cache
+D:\1Семестры\4семестр!!!\Курсы\Lab3\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\lab3.dll
+D:\1Семестры\4семестр!!!\Курсы\Lab3\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\lab3.pdb
+D:\1Семестры\4семестр!!!\Курсы\Lab3\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\lab3.genruntimeconfig.cache
+D:\1Семестры\4семестр!!!\Курсы\Lab3\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\lab3.csprojAssemblyReference.cache
